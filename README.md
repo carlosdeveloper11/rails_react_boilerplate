@@ -1,15 +1,7 @@
-## Spark Starter Kit
-
-[![Circle CI](https://circleci.com/gh/spark-solutions/spark-starter-kit.svg?style=svg)](https://circleci.com/gh/spark-solutions/spark-starter-kit) [![Maintainability](https://api.codeclimate.com/v1/badges/d240686c99b3d35eb61b/maintainability)](https://codeclimate.com/github/spark-solutions/spark-starter-kit/maintainability)
-
-This is a starting point for all [Spree](https://spreecommerce.org)/Rails related projects at [Spark Solutions][spark], it contains:
-
+## Features
  - Ruby on Rails
- - [Spree Commerce](https://spreecommerce.org)
  - Webpack via Webpacker gem
  - React with Redux
-
-## Installation
 
 ### Install required tools and dependencies:
  - [Docker](https://www.docker.com/community-edition#/download)
@@ -55,21 +47,3 @@ And after that you can just use plain normal rspec:
 ```bash
 bundle exec rspec
 ```
-
-## License
-
-Spark Starter Kit is copyright © 2015-2019
-[Spark Solutions Sp. z o.o.][spark]. It is free software,
-and may be redistributed under the terms specified in the
-[LICENSE](LICENSE.md) file.
-
-## About Spark Solutions
-[![Spark Solutions](http://sparksolutions.co/wp-content/uploads/2015/01/logo-ss-tr-221x100.png)][spark]
-
-Spark Starter Kit is maintained and funded by [Spark Solutions Sp. z o.o.](http://sparksolutions.co?utm_source=github)
-The names and logos are trademarks of Spark Solutions Sp. z o.o.
-
-We are passionate about open source software.
-We are [available for hire][spark].
-
-[spark]:http://sparksolutions.co?utm_source=github
